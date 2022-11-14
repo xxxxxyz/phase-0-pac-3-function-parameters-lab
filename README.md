@@ -14,10 +14,10 @@ how to create a default value for a parameter.
 If you haven't already, fork and clone this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code. (If you are using a different text editor, the command
-will be different.)
+will be different.) Run `npm install` once to install your dependencies and allow us to run our tests later.
 
 You will be writing your code in the `index.js` file and running the tests by
-running `learn test` in the terminal.
+running `npm test` in the terminal.
 
 ## Define a Function That Uses a Parameter
 
